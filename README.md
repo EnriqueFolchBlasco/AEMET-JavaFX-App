@@ -14,7 +14,7 @@ First of all, you will need to introduce a autonomous communitie.
 
 ![filtro2](https://github.com/user-attachments/assets/9e2c136e-d11b-4d6d-aa50-09b9d4d8f971)
 
-<h6>Afterwards, choose a province of the autonomous communitie you have picked, at this point they will had been filtered.</h6>
+<h4>Afterwards, choose a province of the autonomous communitie you have picked, at this point they will had been filtered.</h4>
 
 
 ![filtro3](https://github.com/user-attachments/assets/c0241b21-7eba-4f57-bd03-c5ee40393b54)
