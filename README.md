@@ -24,11 +24,18 @@ Plus, it uses a panel from FXML one time and duplicates it to save elements.
 
 ![filtro4](https://github.com/user-attachments/assets/9a3d769f-29a8-4272-8f5c-870a2c8bc62e)
 
-
-
 ![filtro5](https://github.com/user-attachments/assets/116bd4a1-1da0-4afb-a7bc-9f7815b7fdf3)
 
+<h4>Now, after introducing all the data needed, a code will be formed, and the data will be extracted from the XML of the selected city or town, to later on show the 7 future days of the week, with some data of them and an image, for example the percentatge of rain, sun power, thermal sensitivity, etc..</h4>
+
+> [!NOTE]  
+> In case you try to search a city or town that doesn't exist, an exception will jump, which will notify you.
+
 ![aplicacion1](https://github.com/user-attachments/assets/2d479c10-cb02-4d7b-85d9-68d2211a79c2)
+
+![imageException](https://github.com/user-attachments/assets/ce4a0d2f-b1b5-4fa6-9d5f-03532d18e732)
+
+<h4>This is a closer look of how each panel looks.</h4>
 
 ![pane1](https://github.com/user-attachments/assets/a7936631-4042-43c9-b04b-19aeeab62263)
 
