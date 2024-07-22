@@ -7,13 +7,21 @@ Plus, it uses a panel from FXML one time and duplicates it to save elements.
 
 ## "Step by step" of how the filter works in order to obtain the region/town/city code.
 
+First of all, you will need to introduce a autonomous communitie.
+
 ![filtro1](https://github.com/user-attachments/assets/d884d3da-8741-404b-8cba-2ac1f8f16f6a)
 
+Afterwards, choose a province of the autonomous communitie you have picked, at this point they will had been filtered.
+
 ![filtro2](https://github.com/user-attachments/assets/9e2c136e-d11b-4d6d-aa50-09b9d4d8f971)
+
+The next two images are kinda the same thing, they show the cities and towns of the province you have picked, the difference is that one is a choice box, and the other box is a autocomplete box, this means that if you write "al", all the cities or towns that contain "al" will be showed, and the ones who don't contain it, won't appear.
 
 ![filtro3](https://github.com/user-attachments/assets/c0241b21-7eba-4f57-bd03-c5ee40393b54)
 
 ![filtro4](https://github.com/user-attachments/assets/9a3d769f-29a8-4272-8f5c-870a2c8bc62e)
+
+
 
 ![filtro5](https://github.com/user-attachments/assets/116bd4a1-1da0-4afb-a7bc-9f7815b7fdf3)
 
