@@ -1,9 +1,9 @@
 # AEMET-JavaFX-App
 AEMET JavaFX App
 
-This app gives the choice to select a town or city from spain, with it's province and community, to later on show the weather of that town from the day you are in to 7 days forward, in order to use this I use a the AEMET page via XML reading the files, etc...
+This app gives the choice to select a town or city from Spain, with its province and community, to later show the weather of that town from the day you are in to 7 days forward. To achieve this, I use the AEMET page via XML, reading the files, etc.
 
-Plus, it uses a panel from FXML one time and duplicating it in order to save elements. 
+Plus, it uses a panel from FXML one time and duplicates it to save elements.
 
 ## "Step by step" of how the filter works in order to obtain the region/town/city code.
 
@@ -18,8 +18,6 @@ Plus, it uses a panel from FXML one time and duplicating it in order to save ele
 ![filtro5](https://github.com/user-attachments/assets/116bd4a1-1da0-4afb-a7bc-9f7815b7fdf3)
 
 ![aplicacion1](https://github.com/user-attachments/assets/2d479c10-cb02-4d7b-85d9-68d2211a79c2)
-
-
 
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/user-attachments/assets/a7936631-4042-43c9-b04b-19aeeab62263" alt="Description" style="margin-right: 20px;"/>
