@@ -28,11 +28,12 @@ Plus, it uses a panel from FXML one time and duplicates it to save elements.
 
 <h4>Now, after introducing all the data needed, a code will be formed, and the data will be extracted from the XML of the selected city or town, to later on show the 7 future days of the week, with some data of them and an image, for example the percentatge of rain, sun power, thermal sensitivity, etc..</h4>
 
-> [!NOTE]  
-> In case you try to search a city or town that doesn't exist, an exception will jump, which will notify you.
 
 ![aplicacion1](https://github.com/user-attachments/assets/2d479c10-cb02-4d7b-85d9-68d2211a79c2)
 
+> [!NOTE]  
+> In case you try to search a city or town that doesn't exist, an exception will jump, which will notify you.
+> 
 ![imageException](https://github.com/user-attachments/assets/ce4a0d2f-b1b5-4fa6-9d5f-03532d18e732)
 
 <h4>This is a closer look of how each panel looks.</h4>
