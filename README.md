@@ -7,7 +7,7 @@ Plus, it uses a panel from FXML one time and duplicates it to save elements.
 
 ## "Step by step" of how the filter works in order to obtain the region/town/city code.
 
-First of all, you will need to introduce a autonomous communitie.
+<h4>First of all, you will need to introduce a autonomous communitie.</h4>h4>
 
 ![filtro1](https://github.com/user-attachments/assets/d884d3da-8741-404b-8cba-2ac1f8f16f6a)
 
@@ -20,8 +20,7 @@ First of all, you will need to introduce a autonomous communitie.
 ![filtro3](https://github.com/user-attachments/assets/c0241b21-7eba-4f57-bd03-c5ee40393b54)
 
 
-
-The next two images are kinda the same thing, they show the cities and towns of the province you have picked, the difference is that one is a choice box, and the other box is a autocomplete box, this means that if you write "al", all the cities or towns that contain "al" will be showed, and the ones who don't contain it, won't appear.
+<h4>The next two images are kinda the same thing, they show the cities and towns of the province you have picked, the difference is that one is a choice box, and the other box is a autocomplete box, this means that if you write "al", all the cities or towns that contain "al" will be showed, and the ones who don't contain it, won't appear.</h4>
 
 ![filtro4](https://github.com/user-attachments/assets/9a3d769f-29a8-4272-8f5c-870a2c8bc62e)
 
@@ -33,6 +32,6 @@ The next two images are kinda the same thing, they show the cities and towns of 
 
 ![pane1](https://github.com/user-attachments/assets/a7936631-4042-43c9-b04b-19aeeab62263)
 
-This is the aspext of the XML from where the information is taken. In order to get it, you have to make the code of the town/City.
+<h4>This is the aspext of the XML from where the information is taken. In order to get it, you have to make the code of the town/City.</h4>
 
 ![data1](https://github.com/user-attachments/assets/653c936a-da96-435b-92af-9ce2bb1d7e12)
