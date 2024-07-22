@@ -1,7 +1,7 @@
 # AEMET-JavaFX-App
 AEMET JavaFX App, MY LOVELY "Waether app (I am aware it's weather, just a joke name)".
 
-This app gives the choice to select a town or city from Spain, with its province and community, to later show the weather of that town from the day you are in to 7 days forward. To achieve this, I use the AEMET page via XML, reading the files, etc.
+This is my second app since I have started learning java, it gives the choice to select a town or city from Spain, with its province and community, to later show the weather of that town from the day you are in to 7 days forward. To achieve this, I use the AEMET page via XML, reading the files, etc.
 
 Plus, it uses a panel from FXML one time and duplicates it to save elements.
 
