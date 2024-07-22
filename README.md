@@ -7,7 +7,7 @@ Plus, it uses a panel from FXML one time and duplicates it to save elements.
 
 ## "Step by step" of how the filter works in order to obtain the region/town/city code.
 
-<h4>First of all, you will need to introduce a autonomous communitie.</h4>h4>
+<h4>First of all, you will need to introduce a autonomous communitie.</h4>
 
 ![filtro1](https://github.com/user-attachments/assets/d884d3da-8741-404b-8cba-2ac1f8f16f6a)
 
