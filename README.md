@@ -19,14 +19,8 @@ Plus, it uses a panel from FXML one time and duplicates it to save elements.
 
 ![aplicacion1](https://github.com/user-attachments/assets/2d479c10-cb02-4d7b-85d9-68d2211a79c2)
 
+![pane1](https://github.com/user-attachments/assets/a7936631-4042-43c9-b04b-19aeeab62263)
 
-
-<div style="display: flex; align-items: center; margin-top: 20px;">
-  <img src="https://github.com/user-attachments/assets/a7936631-4042-43c9-b04b-19aeeab62263" alt="Description" style="margin-right: 20px;"/>
-  <div style="flex: 1;">
-    <p>This is some text placed next to the image with space in between.</p>
-  </div>
-</div>
-
+This is the aspext of the XML from where the information is taken. In order to get it, you have to make the code of the town/City.
 
 ![data1](https://github.com/user-attachments/assets/653c936a-da96-435b-92af-9ce2bb1d7e12)
