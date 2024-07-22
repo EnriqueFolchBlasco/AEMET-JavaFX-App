@@ -20,6 +20,7 @@ Plus, it uses a panel from FXML one time and duplicating it in order to save ele
 ![aplicacion1](https://github.com/user-attachments/assets/2d479c10-cb02-4d7b-85d9-68d2211a79c2)
 
 
+
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/user-attachments/assets/a7936631-4042-43c9-b04b-19aeeab62263" alt="Description" style="margin-right: 20px;"/>
   <span>This is some text placed next to the image with space in between.</span>
