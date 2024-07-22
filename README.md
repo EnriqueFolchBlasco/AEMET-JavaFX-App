@@ -22,7 +22,7 @@ Plus, it uses a panel from FXML one time and duplicating it in order to save ele
 
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/user-attachments/assets/a7936631-4042-43c9-b04b-19aeeab62263" alt="Description" style="margin-right: 20px;"/>
-  <p>Your text goes here. This is some text placed next to the image with space in between.</p>
+  <span>This is some text placed next to the image with space in between.</span>
 </div>
 
 ![data1](https://github.com/user-attachments/assets/653c936a-da96-435b-92af-9ce2bb1d7e12)
