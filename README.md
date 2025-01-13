@@ -40,6 +40,6 @@ Plus, it uses a panel from FXML one time and duplicates it to save elements.
 
 ![pane1](https://github.com/user-attachments/assets/a7936631-4042-43c9-b04b-19aeeab62263)
 
-<h4>This is the aspext of the XML from where the information is taken. In order to get it, you have to make the code of the town/City.</h4>
+<h4>This is the aspect of the XML from where the information is taken. In order to get it, you have to make the code of the town/City.</h4>
 
 ![data1](https://github.com/user-attachments/assets/653c936a-da96-435b-92af-9ce2bb1d7e12)
